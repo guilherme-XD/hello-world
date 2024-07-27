@@ -1,6 +1,5 @@
 # hello-world
-Meu primeiro repositório.
 
-Este é o meu primeiro repositório público.
+Este é o meu primeiro repositório.
 
-O repositório está hospedado no meu <a href="https://guilherme-xd.github.io/hello-world/" target="_blank">github</a>.
+Acesse o link para [visualizar o projeto] (https://guilherme-xd.github.io/hello-world/)
