@@ -26,14 +26,21 @@ body {
 }
 
 header {
+    position: relative;
     min-height: 140px;
     background-color: var(--color-01);
+}
+
+div#title-header {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 header h1 {
     font-family: var(--font-02);
     font-size: 2.5em;
-    padding: 20px 0px;
     color: white;
     text-align: center;
 }
